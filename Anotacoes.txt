@@ -1,0 +1,3 @@
+# Criando um segundo repositório
+
+Treinando commitar no GitHub esse repositório.
